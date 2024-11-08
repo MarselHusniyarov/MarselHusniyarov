@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ About Me
 
-🚀 Husniyarov Marsel
+🚀 Husniyarov Marsel, 22 y.o.
 Junior developer in Python, 
 student
 
