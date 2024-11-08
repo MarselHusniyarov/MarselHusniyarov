@@ -1,1 +1,1 @@
-< img src = "https://github.com/MarselHusniyarov/MarselHusniyarov/blob/main/гифка%20для%20профиля.gif" alt="TheUnlimited> 
+< img src = "https://github.com/MarselHusniyarov/MarselHusniyarov/blob/main/гифка%20для%20профиля.gif" alt="TheUnlimited"> 
